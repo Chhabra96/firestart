@@ -3,7 +3,7 @@
 ## About Me
 
 Hello, My name is Priya Chhabra and I am based in Delhi, India.After completing my schooling from CBSE in Commerce field. 
-After getting the result I was unsure which path I needed to take. I quickly realized that Accounts is something which I was not interested at the moment I opted for BCA from Indira Gandhi National Open University while doing a job.
+I was unsure which path I needed to take. I quickly realized that Accounts is something which I was not interested at the moment I opted for BCA from Indira Gandhi National Open University while doing a job.
 
 Although, I was always interested in Computers and the Web. I thought that I might be able to make a decent career out of this. However, that didn’t happen.
 
