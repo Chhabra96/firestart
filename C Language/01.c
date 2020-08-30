@@ -2,6 +2,8 @@
 
 int main()
 {
-    puts("Goodbye, World");
+    puts("Hello, World");
+    puts("My name is Priya.");
+    puts("I'm learning how to code");
     return (0);
 }
