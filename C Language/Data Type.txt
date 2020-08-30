@@ -1,0 +1,16 @@
+
+char 
+
+For example : "A" , "B"
+
+int
+
+For example : 1 , 2560
+
+float
+
+For example: 1.5
+
+double
+
+For example: 1.51265006
